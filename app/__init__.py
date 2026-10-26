@@ -1,0 +1,1 @@
+"""Tawseel parcel API application."""
